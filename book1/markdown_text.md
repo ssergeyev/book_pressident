@@ -25,5 +25,16 @@
 в началее +
 + один
 + два
+
 #### Следующий пример - цитаты
 > Однажды в студёную зимнюю пору
+
+#### Таблица
+
+|name|age|
+
+#### hyper link
+
+[sss999](https://github.com/ssergeyev/book_pressident/tree/main/book1) ссылка на книгу
+
+---
